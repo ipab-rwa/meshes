@@ -1,0 +1,8 @@
+List of props in HWU:
+
+- 2x Tiles 60x60x5cm
+- 1x Big tile 90x60x14cm
+- 1x Palette small 56x78x11.5cm, palette sections 7.5cm wide and 10cm separation 
+- 1x Big palette 100x120x14cm, palette sections 9cm wide and 5cm separation 
+- The ramp is 46cm with, 47.5 long and 16.5 cm tall
+- 1 Scaffhold
