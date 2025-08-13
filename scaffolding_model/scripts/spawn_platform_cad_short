@@ -1,0 +1,2 @@
+#!/bin/bash
+rosrun gazebo_ros spawn_model -file /home/vivan/dev/ws/src/uoe_lab_resources/urdf/platform_cad_short.urdf -model platform_short -urdf $@

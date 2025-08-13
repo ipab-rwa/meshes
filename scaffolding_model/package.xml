@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>uoe_lab_resources</name>
+  <version>1.0.0</version>
+  <description>University of Edinburgh robotics lab resources</description>
+  <maintainer email="v.ivan@ed.ac.uk">Vladimir Ivan</maintainer>
+  <license>BSD</license>
+  <buildtool_depend>catkin</buildtool_depend>
+  <exec_depend>xacro</exec_depend>
+  <build_depend>gazebo_ros</build_depend>
+  <exec_depend>gazebo_ros</exec_depend>
+  <export>
+    <gazebo_ros gazebo_model_path="${prefix}/models"/>
+  </export>
+</package>
