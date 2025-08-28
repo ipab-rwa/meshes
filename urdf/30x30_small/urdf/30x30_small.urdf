@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<robot name="30x30_small">
+  <link name="base_link">
+    <inertial>
+      <origin xyz="0.0 0.0 0.0" rpy="0 0 0" />
+      <mass value="1" />
+      <inertia ixx="0.001" ixy="0" ixz="0" iyy="0.001" iyz="0" izz="0.001" />
+    </inertial>
+    <visual>
+      <origin xyz="0 0 0" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="package://30x30_small/meshes/30x30_small.stl" scale="1 1 1" />
+      </geometry>
+      <material name="grey">
+        <color rgba="0.7 0.7 0.7 1.0" />
+      </material>
+    </visual>
+    <collision>
+      <origin xyz="0 0 0" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="package://30x30_small/meshes/30x30_small.stl" scale="1 1 1" />
+      </geometry>
+    </collision>
+  </link>
+</robot>

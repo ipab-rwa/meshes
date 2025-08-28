@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>40x40_15deg</name>
+  <version>0.0.1</version>
+  <description>Auto-generated package for 40x40_15deg</description>
+  <maintainer email="user@example.com">Auto Generator</maintainer>
+  <license>BSD</license>
+  <buildtool_depend>catkin</buildtool_depend>
+  <depend>urdf</depend>
+  <depend>srdfdom</depend>
+</package>

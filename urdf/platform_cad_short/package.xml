@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>platform_cad_short</name>
+  <version>0.0.1</version>
+  <description>Auto-generated package for platform_cad_short</description>
+  <maintainer email="user@example.com">Auto Generator</maintainer>
+  <license>BSD</license>
+  <buildtool_depend>catkin</buildtool_depend>
+  <depend>urdf</depend>
+  <depend>srdfdom</depend>
+</package>

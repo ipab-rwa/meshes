@@ -1,0 +1,53 @@
+All units in CM
+
+List of props in HWU:
+
+- 2x Tiles 60x60x5cm
+- 1x Big tile 90x60x14cm
+- 1x Palette small 56x78x11.5cm, palette sections 7.5cm wide and 10cm separation 
+- 1x Big palette 100x120x14cm, palette sections 9cm wide and 5cm separation 
+- The ramp is 46cm with, 47.5 long and 16.5 cm tall, and 1cm high at the basis
+- 1 Scaffhold
+
+
+- The height of the small palette “in between” is 9.5cm
+- The height of the big palette “in between” is 12.5cm
+
+
+
+List of props in UoE
+
+	- 16 X small ramps:
+		base 30*30
+		2.4 height on basis, 7.69 height top
+		slope length 29.4
+		
+	- 4 X 10 ° ramps
+		base 40*40
+		2.4 height basis, 9.6 height top
+		slope length 40.8
+		
+	- 4 15 ° ramps
+		base 40*40
+		2.4 * 13 heights
+		slope length 41.5
+
+	- unbalanced 10  ° ramps
+		base 40*40
+		heights are 2.4 * 7.62, then 7.62 * 12.7, then 12.7 * 7.62
+
+
+
+	- step up platform
+		slopes are 56.5 cm .
+		top flat length 47.5
+		height 41
+		width 70.5
+
+
+56.5 47.5 56.5
+
+Larguait 70.5
+
+Hauteur 41
+
