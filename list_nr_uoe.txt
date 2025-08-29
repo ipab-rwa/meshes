@@ -32,7 +32,7 @@ List of props in UoE
 		2.4 * 13 heights
 		slope length 41.5
 
-	- unbalanced 10  ° ramps
+	- 2 unbalanced 10  ° ramps
 		base 40*40
 		heights are 2.4 * 7.62, then 7.62 * 12.7, then 12.7 * 7.62
 
